@@ -1,2 +1,2 @@
-# Data-Science-Coding-Challenge-Loan-Default-Prediction
-Programming Assignment: Loan Default Prediction Coding Challenge
+# Coursera Project Network: Clean and analyze social media usage data with Python
+ 
