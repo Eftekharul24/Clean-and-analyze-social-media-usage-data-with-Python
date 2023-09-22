@@ -15,5 +15,11 @@ Project Objectives :
 3. Achieve their social media goals and provide data-driven recommendations.
 
 
+Your Challenge:
 
+Your task will be taking on the role of a social media analyst responsible for collecting, cleaning, and analyzing data on a client's social media posts. You will also be responsible for communicating the insights and making data-driven recommendations to clients to improve their social media performance.  To do this, you will  set up the environment, identify the categories for the post (fitness, tech, family, beauty, etc)  process, analyze, and visualize data.
+
+In this project, we'll use data from Twitter; however, to keep this project unique and open-ended, please feel free to choose whichever major social media website you'd prefer.
+
+After you perform your analysis, you will share your findings.
 
